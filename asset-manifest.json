@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/covid-19-tracker-react/static/css/main.7774981a.chunk.css",
+    "main.js": "/covid-19-tracker-react/static/js/main.5ea7fbe2.chunk.js",
+    "main.js.map": "/covid-19-tracker-react/static/js/main.5ea7fbe2.chunk.js.map",
+    "runtime-main.js": "/covid-19-tracker-react/static/js/runtime-main.2b8b8380.js",
+    "runtime-main.js.map": "/covid-19-tracker-react/static/js/runtime-main.2b8b8380.js.map",
+    "static/js/2.12757797.chunk.js": "/covid-19-tracker-react/static/js/2.12757797.chunk.js",
+    "static/js/2.12757797.chunk.js.map": "/covid-19-tracker-react/static/js/2.12757797.chunk.js.map",
+    "index.html": "/covid-19-tracker-react/index.html",
+    "static/css/main.7774981a.chunk.css.map": "/covid-19-tracker-react/static/css/main.7774981a.chunk.css.map",
+    "static/js/2.12757797.chunk.js.LICENSE.txt": "/covid-19-tracker-react/static/js/2.12757797.chunk.js.LICENSE.txt",
+    "static/media/death.a91d3110.3fb50e93.png": "/covid-19-tracker-react/static/media/death.a91d3110.3fb50e93.png",
+    "static/media/infected.f5aacb25.png": "/covid-19-tracker-react/static/media/infected.f5aacb25.png",
+    "static/media/logo.9e5d4fc7.png": "/covid-19-tracker-react/static/media/logo.9e5d4fc7.png",
+    "static/media/recovered.a14b9e9d.png": "/covid-19-tracker-react/static/media/recovered.a14b9e9d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b8b8380.js",
+    "static/js/2.12757797.chunk.js",
+    "static/css/main.7774981a.chunk.css",
+    "static/js/main.5ea7fbe2.chunk.js"
+  ]
+}
